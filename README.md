@@ -4,6 +4,7 @@
 
 >## 디렉토리 구조
 >>* Calc - C++로 구현한 스택 개념 구현 (Postfix/Prefix 구현)
+>>* Queue - C++로 구현한 Queue
 >>* HTTPParser - C++로 구현한 HTTP Header 파싱 및 생성 클래스
 >>* Sorting - C++로 구현한 기본 정렬 알고리즘 모음 
 >>* Chat - C++로 구현한 채팅 프로젝트 (VC로 제작)
